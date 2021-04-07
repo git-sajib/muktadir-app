@@ -1,0 +1,21 @@
+.Home {
+    text-align: center;
+    width: 100%;
+    height: 527px;
+    background-color: #ddd;
+    display: inline-table;
+  }
+
+  .List li {
+    text-align: center;
+    color: #000;
+    display:block;
+    float:left;
+    width: 50%;
+    height: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+    list-style: none;
+    color: rgb(33, 104, 235);
+  }
